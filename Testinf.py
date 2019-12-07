@@ -5,8 +5,9 @@ import sys
 import os
 
 input_file = input("Drag file here ")   #User drags file to cmd
+output_name = input("Type the name and format of the file. e.g. example.json")
 directory = os.path.dirname(input_file) #Have the path to file to create the new file
-new_file_path = os.path.join(directory, "decoded.txt")
+new_file_path = os.path.join(directory, output_name)
 print("Decoding...")
 
 fix_mojibake_escapes = partial(
