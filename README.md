@@ -14,7 +14,7 @@ I received a .json file from facebook and all the non-english characters looked 
   Then add 'content: ' word to keep the formating.
   Problem: This keeps the formating but is specific to my case.
   
-3. Also I played around with python to .exe, making the .py file to .exe
+3. Also I played around with making the .py file to .exe
 
 ```
 	\u00ce\u009a\u00ce\u00b1\u00ce\u00bb\u00ce\u00b7\u00ce\u00bc\u00ce\u00ad\u00cf\u0081\u00ce\u00b1 \u00f0\u009f\u0098\u0098
