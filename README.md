@@ -1,5 +1,5 @@
 # Encoding
-Personal project to decode badly encoded json file
+Personal project to decode badly encoded json file - Later extracted statistics from conversations with friends
 
 ### Problem:
 I received a .json file from facebook and all the non-english characters looked like \\u00a0 instead of α 
